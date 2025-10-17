@@ -1,6 +1,6 @@
 # Distributed Spark Social Media Analyzer
 
-———— Distributed Apache Spark Cluster Deployment & Large-Scale Data Analysis on AWS EC2
+——— Distributed Apache Spark Cluster Deployment & Large-Scale Data Analysis on AWS EC2
 
 ## Project Overview
 
@@ -65,6 +65,7 @@ This project was structured into three key phases to progressively build experti
     *   Ensuring timely termination of all cloud resources post-project completion.
 
 ## Repository Structure
+```
 project-spark-cluster/
 ├── README.md # This file - overview and 3-problem guide
 ├── SPARK_CLUSTER_SETUP.md # Detailed manual setup instructions (reference)
@@ -77,7 +78,7 @@ project-spark-cluster/
 │ └── nyc_tlc_problem1_cluster.py
 ├── pyproject.toml # Python dependencies
 └── .gitignore # Git ignore file (includes .pem, .parquet)
-
+```
 
 ## Setup & Usage
 
