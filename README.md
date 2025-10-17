@@ -1,4 +1,6 @@
-# Distributed Apache Spark Cluster Deployment & Large-Scale Data Analysis on AWS EC2
+# Distributed Spark Social Media Analyzer
+
+-- Distributed Apache Spark Cluster Deployment & Large-Scale Data Analysis on AWS EC2
 
 ## Project Overview
 
